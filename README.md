@@ -1,2 +1,2 @@
-# zeldaclassic-learntocode-media
-Contains media files only for a barebones reconstruction of Zelda Classic
+# zeldaclassic-learntocode
+Project skeleton and media files for students to reconstruct Zelda Classic as they learn to code with PyGame Zero.
